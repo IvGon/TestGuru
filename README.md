@@ -9,9 +9,9 @@ Creating tests and management of them.
 Entities:
 
 tests
+categories
 questions
 answers
-options for answers
-tests result
+tests
+result
 users
-administrator
